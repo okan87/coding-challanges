@@ -5,10 +5,6 @@
 
 ### Canlısı gözüken Clarusway Pathlerinin bulunduğu bir web sayfası tasarlayınız.
 
-[Canlı Linki](https://assignment-data.vercel.app/)
-
-![clarusway](./cc01.gif)
-
 ### Kullanacağınız içerikler ve pathlerin linkleri
 
 Software Development</br>
